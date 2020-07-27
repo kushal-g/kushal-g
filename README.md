@@ -6,7 +6,8 @@
 - 🏢 I'm currently interning at **ReChord** and **AccioIbis**
 - ⚙️ I use daily: `.jsx`, `.js`, `.dart`  
 - 🌱 Learning Unity and AR Foundation
-- 📫 Reach me: <a href="https://linkedin.com/in/kushal-garg/" target="_blank"><img width="180px" src="https://raw.githubusercontent.com/kushal-g/kushal-g/master/src/linkedin.svg"></a> 
+- 📫 Reach me: 
+	- <a href="https://linkedin.com/in/kushal-garg/" target="_blank"><img width="180px" src="https://raw.githubusercontent.com/kushal-g/kushal-g/master/src/linkedin.svg"></a> 
   
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kushal-g&show_icons=true&hide=stars&count_private=true&theme=buefy" alt="kushal-g" /> </p>  
