@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**kushal-g/kushal-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋, I'm Kushal  
+<div align="left"> <img width="170" height="30" src="https://komarev.com/ghpvc/?username=kushal-g&style=flat-square&color=AA7BC3" alt="kushal-g" /> </div> 
 
-Here are some ideas to get you started:
+#####  I'm a Full Stack developer regularly working with React, Node.JS and Firebase with a keen interest in Mixed Reality Technologies.
+- 🏢 I'm currently interning at **ReChord** and **AccioIbis**
+- ⚙️ I use daily: `.jsx`, `.js`, `.dart`  
+- 🌱 Learning Unity and AR Foundation
+- 📫 Reach me: 
+  - <a href="https://linkedin.com/in/kushal-garg/" target="_blank"><img width="180px" src="https://raw.githubusercontent.com/kushal-g/kushal-g/master/src/linkedin.svg"></a> 
+  - <a href="https://t.me/praveenscience" target="_blank"><img width="180px" src="https://raw.githubusercontent.com/kushal-g/kushal-g/master/src/telegram.svg"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kushal-g&show_icons=true&hide=stars&count_private=true&theme=buefy" alt="kushal-g" /> </p>  
