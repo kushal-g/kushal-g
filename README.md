@@ -3,7 +3,7 @@
 <div align="left"> <img width="100" height="20" src="https://komarev.com/ghpvc/?username=kushal-g&style=flat-square&color=AA7BC3" alt="kushal-g" /> </div> 
 
 ###  I'm a Full Stack developer regularly working with React, Node.JS and Firebase with a keen interest in Mixed Reality Technologies.
-- 🏢 I'm currently interning at **ReChord** and **AccioIbis**
+- 🏢 I'm currently working at **ReChord**
 - ⚙️ I use daily: `.jsx`, `.js`, `.dart`  
 - 🌱 Learning Unity and AR Foundation
 - 📫 Reach me: 
